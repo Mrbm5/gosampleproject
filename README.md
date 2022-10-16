@@ -1,4 +1,4 @@
-# gosampleproject
+# go sample project 'Deck'
 
 This repository contains a sample project called deck which demonstrate how to use go standard library & tools.
 this project has following features 
